@@ -45,7 +45,7 @@ Bem-vindo ao meu perfil! Sou um apaixonado por tecnologia, sempre buscando solu�
 
 ## 📈 Minhas Estatísticas de Commits  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandroserraDev&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leandroserraDev&theme=radical)
+![Leandro's GitHub Snake](https://github-stats.omsimos.com/username=leandroserraDev&theme=radical)
 
 ---
 
