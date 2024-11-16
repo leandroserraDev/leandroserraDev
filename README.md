@@ -39,7 +39,7 @@ Bem-vindo ao meu perfil! Sou um apaixonado por tecnologia, sempre buscando solu�
 ### 🥊 **Plataforma de Conexão para Lutadores**  
 **Descrição:** Um aplicativo estilo *clube da luta* para conectar lutadores, treinadores e academias.  
 **Tecnologias:** .Net Core, ReactJS, MongoDB, Azure  
-[🔗 Repositório (Privado/Público)](https://github.com/seu-usuario/seu-repositorio)
+[🔗 Repositório (Privado/Público)](https://github.com/leandroserraDev/CllubeDaLuta)
 
 ---
 
