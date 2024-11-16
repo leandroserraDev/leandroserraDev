@@ -44,8 +44,8 @@ Bem-vindo ao meu perfil! Sou um apaixonado por tecnologia, sempre buscando solu�
 ---
 
 ## 📈 Minhas Estatísticas  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?eandroserraDev&layout=compact&theme=radical)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?eandroserraDev&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?leandroserraDev&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?leandroserraDev&show_icons=true&theme=radical)  
 
 ---
 
