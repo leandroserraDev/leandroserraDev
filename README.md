@@ -24,7 +24,7 @@ Bem-vindo ao meu perfil! Sou um apaixonado por tecnologia, sempre buscando solu√
 ### **Front-End**  
 - ![ReactJS](https://img.shields.io/badge/ReactJS-%2361DAFB?logo=react&logoColor=black)  
 - ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=white)  
-- ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?logo=css3&logoColor=white)  
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4?logo=tailwindcss&logoColor=white)  
 
 ### **Cloud & DevOps**  
 - ![Azure](https://img.shields.io/badge/Azure-%230072C6?logo=microsoftazure&logoColor=white)  
