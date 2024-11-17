@@ -25,7 +25,7 @@ Bem-vindo ao meu perfil! Sou um apaixonado por tecnologia, sempre buscando solu√
 - ![C#](https://img.shields.io/badge/C%23-%23239120?logo=csharp&logoColor=white)  
 - ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black)  
 - ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?logo=typescript&logoColor=white)  
-- ![SQL]
+- ![SQL](https://img.shields.io/badge/SQL-%23007ACC?logo=microsoftsqlserver&logoColor=white)  
 
 ---
 
