@@ -29,6 +29,15 @@ Bem-vindo ao meu perfil! Sou um apaixonado por tecnologia, sempre buscando solu�
 ### **Cloud & DevOps**  
 - ![Azure](https://img.shields.io/badge/Azure-%230072C6?logo=microsoftazure&logoColor=white)  
 - ![Docker](https://img.shields.io/badge/Docker-%232496ED?logo=docker&logoColor=white)  
+- ![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-%230072C6?logo=azurepipelines&logoColor=white)  
+---
+
+### **Microsoft Power Platform**  
+- ![Power Apps](https://img.shields.io/badge/Power%20Apps-%236B0BDE?logo=powerapps&logoColor=white)  
+- ![Power Automate](https://img.shields.io/badge/Power%20Automate-%230078D4?logo=powerautomate&logoColor=white)  
+- ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811?logo=powerbi&logoColor=black)
+
+---
 
 ### **Visualização de Dados**  
 - ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811?logo=powerbi&logoColor=black)  
@@ -45,6 +54,7 @@ Bem-vindo ao meu perfil! Sou um apaixonado por tecnologia, sempre buscando solu�
 
 ## 📈 Minhas Estatísticas de Commits  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=leandroserraDev&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
