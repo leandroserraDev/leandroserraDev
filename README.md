@@ -21,6 +21,14 @@ Bem-vindo ao meu perfil! Sou um apaixonado por tecnologia, sempre buscando solu�
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1?logo=postgresql&logoColor=white)  
 - ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?logo=mongodb&logoColor=white)  
 
+### **Linguagens de Programação**  
+- ![C#](https://img.shields.io/badge/C%23-%23239120?logo=csharp&logoColor=white)  
+- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black)  
+- ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?logo=typescript&logoColor=white)  
+- ![SQL]
+
+---
+
 ### **Front-End**  
 - ![ReactJS](https://img.shields.io/badge/ReactJS-%2361DAFB?logo=react&logoColor=black)  
 - ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=white)  
