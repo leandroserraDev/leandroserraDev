@@ -68,7 +68,7 @@ Bem-vindo ao meu perfil! Sou um apaixonado por tecnologia, sempre buscando solu�
 
 ## 📫 Entre em Contato  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Leandro%20Serra-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/seu-perfil)  
-✉️ **E-mail:** leandro.serra@email.com  
+✉️ **E-mail:** leandroserra.vig@gmail.com  
 
 ---
 
